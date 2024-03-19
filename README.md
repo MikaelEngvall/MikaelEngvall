@@ -33,6 +33,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/MikaelEngvall/MikaelEngvall/output/snake.svg" alt="Snake animation" />
 </div>
+
 ###
 
 I'm a passionate full-stack developer specializing in Java, with experience in JavaScript, React, Node.js, Bootstrap, and styled components. Currently, I'm honing my skills and gaining real-world experience through an internship at [Sprinta AB](https://sprinta.se).
