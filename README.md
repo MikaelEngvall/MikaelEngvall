@@ -19,9 +19,9 @@
 </div>
 
 ###
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/MikaelEngvall/MikaelEngvall/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
 
 
