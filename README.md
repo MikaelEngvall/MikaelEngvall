@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" height="30" alt="mySql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt=" logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/msdos/msdos-original.svg" height="30" alt="msdos logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
