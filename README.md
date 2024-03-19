@@ -26,6 +26,7 @@ I'm a passionate full-stack developer specializing in Java, with experience in J
 ### Other Skills
 
 - Node.js
+- MySQL
 
 ## Projects
 
