@@ -43,8 +43,8 @@ Feel free to explore my GitHub repositories for more projects and code samples.
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- LinkedIn: [Your LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/mikaelengvall/))
+- Email: [Your Email Address](mailto:mikael.engvall.me@gmail.com)
 - Portfolio: [Your Portfolio Website](link-to-portfolio)
 
 Let's connect and discuss exciting opportunities or collaborate on interesting projects!
