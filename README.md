@@ -3,6 +3,50 @@
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me here? Just do it.
+# Hi there, I'm [Your Name]! 👋
+
+I'm a passionate full-stack developer specializing in Java, with experience in JavaScript, React, Node.js, Bootstrap, and styled components. Currently, I'm honing my skills and gaining real-world experience through an internship at [Sprinta AB](https://sprinta.se).
+
+## About Me
+
+- 💻 Full-stack developer with a focus on Java technologies.
+- 🌱 Constantly learning and exploring new technologies to stay updated.
+- 🎓 Pursuing excellence in software development through hands-on experience and continuous education.
+- 🚀 Actively seeking opportunities to contribute to innovative projects and collaborate with like-minded professionals.
+
+## Tech Stack
+
+### Frontend
+
+- JavaScript
+- React
+- Bootstrap
+- Styled Components
+
+### Backend
+
+- Java
+- Spring Boot
+
+### Other Skills
+
+- Node.js
+
+## Projects
+
+Here are a few noteworthy projects I've worked on:
+
+1. [Project Name](link-to-project) - Brief description of the project.
+
+Feel free to explore my GitHub repositories for more projects and code samples.
+
+## Get in Touch
+
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- Email: [Your Email Address](mailto:youremail@example.com)
+- Portfolio: [Your Portfolio Website](link-to-portfolio)
+
+Let's connect and discuss exciting opportunities or collaborate on interesting projects!
 
 
 <!---
