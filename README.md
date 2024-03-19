@@ -20,9 +20,7 @@
 
 ###
 
-<br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/MikaelEngvall/MikaelEngvall/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/MikaelEngvall/MikaelEngvall/output/snake.svg" alt="Snake animation" />
 
 ###
 
