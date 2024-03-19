@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me here? Just do it.
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Mikael! 👋
 
 I'm a passionate full-stack developer specializing in Java, with experience in JavaScript, React, Node.js, Bootstrap, and styled components. Currently, I'm honing my skills and gaining real-world experience through an internship at [Sprinta AB](https://sprinta.se).
 
