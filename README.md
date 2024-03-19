@@ -36,7 +36,8 @@ I'm a passionate full-stack developer specializing in Java, with experience in J
 
 Here are a few noteworthy projects I've worked on:
 
-1. Headhunter([link-to-project](https://github.com/MikaelEngvall/headhunter-backend)) - AI assisted job adverts creator
+1. Headhunter backend ([link-to-project] (https://github.com/MikaelEngvall/headhunter-backend)) - AI assisted job adverts creator
+2. Headhunter frontend ([link-to-project] (https://github.com/MikaelEngvall/headhunter-frontend))
 
 Feel free to explore my GitHub repositories for more projects and code samples.
 
