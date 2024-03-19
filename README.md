@@ -43,7 +43,7 @@ Feel free to explore my GitHub repositories for more projects and code samples.
 
 ## Get in Touch
 
-- LinkedIn: (https://www.linkedin.com/in/mikaelengvall/)
+- LinkedIn: [My LinkedIn] (https://www.linkedin.com/in/mikaelengvall/)
 - Email: [Your Email Address](mailto:mikael.engvall.me@gmail.com)
 - Portfolio: [Your Portfolio Website](link-to-portfolio)
 
