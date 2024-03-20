@@ -12,32 +12,60 @@
   <picture>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" unselectable="on" height="30" alt="java logo"  />
   <img width="12" />
+    </picture>
+  <picture>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" height="30" alt="mySql logo"  />
   <img width="12" />
+      </picture>
+  <picture>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain.svg" height="30" alt="axios logo"  />
   <img width="12" />
+      </picture>
+  <picture>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
   <img width="12" />
+      </picture>
+  <picture>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/json/json-original.svg" height="30" alt="json logo"  />
   <img width="12" />  
+      </picture>
+  <picture>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original.svg" height="30" alt="junit logo"  />
   <img width="12" />
+      </picture>
+  <picture>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
   <img width="12" />
+      </picture>
+  <picture>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" height="30" alt="node.js logo"  />
   <img width="12" /> 
+      </picture>
+  <picture>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" /> 
   <img src="icons8-chatgpt-50.png" height="30" alt="opeai logo"  />
