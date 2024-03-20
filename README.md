@@ -10,63 +10,63 @@
 
 <div align="center">
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" unselectable="on" height="30" alt="java logo"  />
+  <img src="java-original.svg" unselectable="on" height="30" alt="java logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img src="spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" height="30" alt="mySql logo"  />
+  <img src="mysql-original.svg" height="30" alt="mySql logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain.svg" height="30" alt="axios logo"  />
+  <img src="axios-plain.svg" height="30" alt="axios logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img src="intellij-original.svg" height="30" alt="intellij logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/json/json-original.svg" height="30" alt="json logo"  />
+  <img src="json-original.svg" height="30" alt="json logo"  />
   <img width="12" />  
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original.svg" height="30" alt="junit logo"  />
+  <img src="junit-original.svg" height="30" alt="junit logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img src="jquery-original.svg" height="30" alt="jquery logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" height="30" alt="node.js logo"  />
+  <img src="nodejs-original.svg" height="30" alt="node.js logo"  />
   <img width="12" /> 
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img src="npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" />
   </picture>
   <picture>
@@ -74,31 +74,31 @@
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/maven/maven-original.svg" height="30" alt="maven logo"  />
+  <img src="maven-original.svg" height="30" alt="maven logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
+  <img src="cplusplus-original.svg" height="30" alt="c++ logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original-wordmark.svg" height="30" alt="arduino logo"  />
+  <img src="arduino-original-wordmark.svg" height="30" alt="arduino logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/msdos/msdos-original.svg" height="30" alt="msdos logo"  />
+  <img src="msdos-original.svg" height="30" alt="msdos logo"  />
   <img width="12" />
   </picture>
   <picture>
