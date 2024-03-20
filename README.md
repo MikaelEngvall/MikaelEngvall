@@ -9,8 +9,10 @@
 ###
 
 <div align="center">
+  <picture>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" unselectable="on" height="30" alt="java logo"  />
   <img width="12" />
+  </picture>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
