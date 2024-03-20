@@ -44,6 +44,7 @@
 <img src="https://raw.githubusercontent.com/MikaelEngvall/MikaelEngvall/output/snake.svg" alt="Snake animation" />
 </div>
 
+<div align="left">
 ###
 
 I'm a passionate full-stack developer specializing in Java, with experience in JavaScript, React, Node.js, Bootstrap, and styled components. Currently, I'm honing my skills and gaining real-world experience through an internship at [Sprinta AB](https://sprinta.se).
@@ -89,7 +90,7 @@ Feel free to explore my GitHub repositories for more projects and code samples.
 - Email: [Email Address](mailto:mikael.engvall.me@gmail.com)
 
 Let's connect and discuss exciting opportunities or collaborate on interesting projects!
-
+</div>
 
 <!---
 MikaelEngvall/MikaelEngvall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
