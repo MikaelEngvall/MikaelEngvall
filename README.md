@@ -9,64 +9,66 @@
 ###
 
 <div align="center">
+  
+<div align="center">
   <picture>
-  <img src="java-original.svg" unselectable="on" height="30" alt="java logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java-original.svg" unselectable="on" height="30" alt="java logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="spring-original.svg" height="30" alt="spring logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="javascript-original.svg" height="30" alt="javascript logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="react-original.svg" height="30" alt="react logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="html5-original.svg" height="30" alt="html5 logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="css3-original.svg" height="30" alt="css3 logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="mysql-original.svg" height="30" alt="mySql logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql-original.svg" height="30" alt="mySql logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="axios-plain.svg" height="30" alt="axios logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios-plain.svg" height="30" alt="axios logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="intellij-original.svg" height="30" alt="intellij logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="json-original.svg" height="30" alt="json logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jason/json-original.svg" height="30" alt="json logo"  />
   <img width="12" />  
   </picture>
   <picture>
-  <img src="junit-original.svg" height="30" alt="junit logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="30" alt="junit logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="jquery-original.svg" height="30" alt="jquery logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="nodejs-original.svg" height="30" alt="node.js logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="node.js logo"  />
   <img width="12" /> 
   </picture>
   <picture>
-  <img src="npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" />
   </picture>
   <picture>
@@ -74,27 +76,27 @@
   <img width="12" />
   </picture>
   <picture>
-  <img src="maven-original.svg" height="30" alt="maven logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="30" alt="maven logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="c-original.svg" height="30" alt="c logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="csharp-original.svg" height="30" alt="csharp logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="cplusplus-original.svg" height="30" alt="c++ logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="arduino-original-wordmark.svg" height="30" alt="arduino logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="30" alt="arduino logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="msdos-original.svg" height="30" alt="msdos logo"  />
+  <img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="30" alt="msdos logo"  />
   <img width="12" />
   </picture>
   <picture>
