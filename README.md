@@ -9,108 +9,90 @@
 ###
 
 <div align="center">
-  
-<div align="center">
   <picture>
-  <img src="java-original.svg" unselectable="on" height="30" alt="java logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" unselectable="on" height="30" alt="java logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="spring-original.svg" height="30" alt="spring logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" height="30" alt="mySql logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain.svg" height="30" alt="axios logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="react-original.svg" height="30" alt="react logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  </picture>
-  <picture>
-  <img src="css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  </picture>
-  <picture>
-  <img src="mysql-original.svg" height="30" alt="mySql logo"  />
-  <img width="12" />
-  </picture>
-  <picture>
-  <img src="axios-plain.svg" height="30" alt="axios logo"  />
-  <img width="12" />
-  </picture>
-  <picture>
-  <img src="intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  </picture>
-  <picture>
-  <img src="json-original.svg" height="30" alt="json logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/json/json-original.svg" height="30" alt="json logo"  />
   <img width="12" />  
   </picture>
   <picture>
-  <img src="junit-original.svg" height="30" alt="junit logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original.svg" height="30" alt="junit logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="jquery-original.svg" height="30" alt="jquery logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="nodejs-original.svg" height="30" alt="node.js logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" height="30" alt="node.js logo"  />
   <img width="12" /> 
   </picture>
   <picture>
-  <img src="npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" /> 
   </picture>
   <picture>
   <img src="icons8-chatgpt-50.png" height="30" alt="opeai logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="maven-original.svg" height="30" alt="maven logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/maven/maven-original.svg" height="30" alt="maven logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="c-original.svg" height="30" alt="c logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="cplusplus-original.svg" height="30" alt="c++ logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="arduino-original-wordmark.svg" height="30" alt="arduino logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
   <img width="12" />
   </picture>
   <picture>
-  <img src="msdos-original.svg" height="30" alt="msdos logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original-wordmark.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  </picture>
+  <picture>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/msdos/msdos-original.svg" height="30" alt="msdos logo"  />
   <img width="12" />
   </picture>
   <picture>
   <img src="icons8-github-50.png" height="30" alt="github logo"  />
   <img width="12" />
-  </picture></div>
-
+  </picture>
+</div>
+ 
 ###
 
 <br clear="both">
 <div align="center">
 <img src="https://raw.githubusercontent.com/MikaelEngvall/MikaelEngvall/output/snake.svg" alt="Snake animation" />
 </div>
-
 <div align="left">
   
 ###
@@ -121,11 +103,9 @@ I'm a passionate full-stack developer specializing in Java, with experience in J
 
 - 💻 Full-stack developer with a focus on Java technologies.
 - 🌱 Constantly learning and exploring new technologies to stay updated.
-- 🎓 Pursuing excellence in software development through hands-on experience and continuous education.
 - 🚀 Actively seeking opportunities to contribute to innovative projects and collaborate with like-minded professionals.
 
 ## Tech Stack
-
 ### Frontend
 
 - JavaScript
@@ -146,22 +126,19 @@ I'm a passionate full-stack developer specializing in Java, with experience in J
 ## Projects
 
 Here are a few noteworthy projects I've worked on:
-
 1. Headhunter backend (https://github.com/MikaelEngvall/headhunter-backend) - AI assisted job adverts creator
 2. Headhunter frontend (https://github.com/MikaelEngvall/headhunter-frontend)
-
 Feel free to explore my GitHub repositories for more projects and code samples.
 
 ## Get in Touch
 
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mikaelengvall/)
 - Email: [Email Address](mailto:mikael.engvall.me@gmail.com)
-
-Let's connect and discuss exciting opportunities or collaborate on interesting projects!
-
+- Let's connect and discuss exciting opportunities or collaborate on interesting projects!
 </div>
 
 <!---
 MikaelEngvall/MikaelEngvall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Pursuing excellence in software development through hands-on experience and continuous education.
 You can click the Preview link to take a look at your changes.
 --->
