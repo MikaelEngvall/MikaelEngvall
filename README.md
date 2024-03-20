@@ -82,10 +82,6 @@
   <img width="12" />
   </picture>
   <picture>
-  <img src="python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  </picture>
-  <picture>
   <img src="csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   </picture>
