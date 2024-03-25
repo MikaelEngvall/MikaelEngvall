@@ -91,7 +91,9 @@
 
 <br clear="both">
 <div align="center">
+  <picture>
 <img src="https://raw.githubusercontent.com/MikaelEngvall/MikaelEngvall/output/snake.svg" alt="Snake animation" />
+    </picture>
 </div>
 <div align="left">
   
