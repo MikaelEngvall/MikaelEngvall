@@ -57,6 +57,12 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/maven/maven-original.svg" height="30" alt="maven logo"  />
   <img width="12" />
   </picture>
+  </picture>
+  <picture>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwind logo"  />
+  <img width="12" />
+  </picture>
+  
   <picture>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
