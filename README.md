@@ -139,7 +139,7 @@ Here are a few noteworthy projects I've worked on:
 4. Headhunter [frontend without styled component and collapsible sidebar](https://github.com/MikaelEngvall/headhunter-sidebare-final)
 5. Headhunter [frontend in Vue](https://github.com/MikaelEngvall/vue-headhunter-init)
 
-Feel free to explore my GitHub repositories for more projects and code samples.
+Feel free to explore [my GitHub repository](https://github.com/MikaelEngvall) for more projects and code samples.
 
 ## Get in Touch
 
