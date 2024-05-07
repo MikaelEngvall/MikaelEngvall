@@ -119,6 +119,8 @@ I'm a passionate full-stack developer specializing in Java, with experience in J
 - React
 - Bootstrap
 - Styled Components
+- Vue.js
+- TailwindCSS
 
 ### Backend
 
