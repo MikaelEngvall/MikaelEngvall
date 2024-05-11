@@ -138,7 +138,7 @@ Here are a few noteworthy projects I've worked on:
 1. Headhunter [backend](https://github.com/MikaelEngvall/headhunter-backend) - AI assisted job adverts creator
 2. Headhunter [frontend](https://github.com/MikaelEngvall/headhunter-frontend)
 3. Headhunter [frontend with tailwindcss](https://github.com/MikaelEngvall/HeadhunterTailwindCSS)
-4. For a live preview of frontend with TailwindCSS [click here](https://headhunterwithtailwind.onrender.com/)
+4. For a live preview of frontend with TailwindCSS [click here](https://headhuntertailwindcss.onrender.com/)
 5. Headhunter [frontend without styled component and collapsible sidebar](https://github.com/MikaelEngvall/headhunter-sidebare-final)
 6. Headhunter [frontend in Vue](https://github.com/MikaelEngvall/vue-headhunter-init)
 
