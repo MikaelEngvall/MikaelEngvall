@@ -137,10 +137,9 @@ I'm a passionate full-stack developer specializing in Java, with experience in J
 Here are a few noteworthy projects I've worked on:
 1. Headhunter [backend](https://github.com/MikaelEngvall/headhunter-backend) - AI assisted job adverts creator
 2. Headhunter [frontend](https://github.com/MikaelEngvall/headhunter-frontend). This is our very first version, live preview [here](https://headhunter-frontend.onrender.com/).
-3. Headhunter [frontend with tailwindcss](https://github.com/MikaelEngvall/HeadhunterTailwindCSS)
-4. For a live preview of frontend with TailwindCSS [click here](https://headhuntertailwindcss.onrender.com/)
-5. Headhunter [frontend without styled component and collapsible sidebar](https://github.com/MikaelEngvall/headhunter-sidebare-final) Live preview [here](https://headhunter-sidebare-final.onrender.com/).
-6. Headhunter [frontend in Vue](https://github.com/MikaelEngvall/vue-headhunter-init)
+3. Headhunter [frontend with tailwindcss](https://github.com/MikaelEngvall/HeadhunterTailwindCSS). Responsive version (mobile centric), for live preview [click here](https://headhuntertailwindcss.onrender.com/)
+4. Headhunter [frontend without styled component and collapsible sidebar](https://github.com/MikaelEngvall/headhunter-sidebare-final). Live preview [here](https://headhunter-sidebare-final.onrender.com/).
+5. Headhunter [frontend in Vue](https://github.com/MikaelEngvall/vue-headhunter-init)
 
 Feel free to explore [my GitHub repository](https://github.com/MikaelEngvall) for more projects and code samples.
 
