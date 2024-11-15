@@ -91,8 +91,6 @@
   <img width="12" />
   </picture>
 </div>
- 
-###
 
 <br clear="both">
 <div align="center">
