@@ -100,7 +100,6 @@
 </div>
 <div align="left">
   
-###
 
 I'm a passionate full-stack developer specializing in Java, with experience in JavaScript, React, Node.js, Bootstrap, and styled components. I had the opportunity to hone my skills and gain real-world experience through an internship at [Sprinta AB](https://sprinta.se).
 
