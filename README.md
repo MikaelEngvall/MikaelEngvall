@@ -140,7 +140,7 @@ Here are a few noteworthy projects I've worked on:
 3. Headhunter [frontend with tailwindcss](https://github.com/MikaelEngvall/HeadhunterTailwindCSS). Responsive version (mobile centric), for live preview [click here](https://headhunter.onrender.com/)
 4. Headhunter [frontend without styled component and collapsible sidebar](https://github.com/MikaelEngvall/headhunter-sidebare-final). Live preview [here](https://headhunter-sidebare-final.onrender.com/).
 5. Headhunter [frontend in Vue](https://github.com/MikaelEngvall/vue-headhunter-init)
-6. Rental Managment System https://systemet.netlify.app/
+6. Rental Managment System [fullstack](https://systemet.netlify.app/)
 
 Feel free to explore [my GitHub repository](https://github.com/MikaelEngvall) for more projects and code samples.
 
