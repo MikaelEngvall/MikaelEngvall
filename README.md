@@ -51,8 +51,6 @@ Explore more in [my GitHub repositories](https://github.com/MikaelEngvall).
 
 ### 🤝 Connect with Me
 
-<a href="https://info.flagcounter.com/bFyf"><img src="https://s11.flagcounter.com/countxl/bFyf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mikaelengvall/)
 - 📧 [Email Me](mailto:mikael.engvall.me@gmail.com)
 - ⚡ Let's collaborate on exciting projects and push boundaries together!
@@ -62,3 +60,5 @@ Explore more in [my GitHub repositories](https://github.com/MikaelEngvall).
 <p align="center">
   <img src="https://raw.githubusercontent.com/MikaelEngvall/MikaelEngvall/output/snake.svg" alt="Snake animation"/>
 </p>
+
+<a href="https://info.flagcounter.com/bFyf"><img src="https://s11.flagcounter.com/countxl/bFyf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
