@@ -45,7 +45,7 @@ Here are some of my recent projects:
 3. **Vue.js Implementation**  
    - [Headhunter Frontend](https://github.com/MikaelEngvall/vue-headhunter-init): A Vue.js take on the Headhunter app.
 
-4. **DOM manipulation JavaScript, HTNL and CSS**  
+4. **DOM manipulation JavaScript, HTML and CSS**  
    - [Wordle in 5 languages](https://mikaelengvall.github.io/Wordle/)
 
 
