@@ -64,5 +64,3 @@ Explore more in [my GitHub repositories](https://github.com/MikaelEngvall).
 <p align="center">
   <img src="https://raw.githubusercontent.com/MikaelEngvall/MikaelEngvall/output/snake.svg" alt="Snake animation"/>
 </p>
-
-<a href="https://info.flagcounter.com/ODnX"><img src="https://s01.flagcounter.com/countxl/ODnX/bg_0D0D0D/txt_FAFAFA/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
