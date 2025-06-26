@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Full-Stack Developer from Sweden</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MikaelEngvall&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="Streak Graph" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MikaelEngvall&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Languages Graph" height="150"/>
 </p>
 
