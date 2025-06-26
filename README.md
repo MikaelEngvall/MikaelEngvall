@@ -35,9 +35,8 @@ Here are some of my recent projects:
 
 1. **Headhunter**  
    - [Backend](https://github.com/MikaelEngvall/headhunter-backend): AI-assisted job advertisement creator.  
-   - [Frontend](https://github.com/MikaelEngvall/headhunter-frontend): [Live Demo](https://headhunter-frontend.onrender.com).  
-   - [Responsive Version with TailwindCSS](https://github.com/MikaelEngvall/HeadhunterTailwindCSS): [Live Demo](https://headhuntertailwindcss.onrender.com/).
-
+   - [Frontend](https://github.com/MikaelEngvall/headhunter-frontend)
+   - [Responsive Version with TailwindCSS](https://github.com/MikaelEngvall/HeadhunterTailwindCSS)
 2. **Rental Management System**  
    - [Full-Stack Application](https://systemet.netlify.app): Manage apartments, tenants, and keys seamlessly.
 
